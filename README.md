@@ -31,7 +31,8 @@ while True:
     c.send(ClientMessage.encode())
 ```
 ## OUPUT
-![3a output](https://github.com/user-attachments/assets/523ebf72-69d6-4dfd-a277-77d4ef0ec860)
+![WhatsApp Image 2024-11-18 at 12 49 37_ced981b7](https://github.com/user-attachments/assets/35e2b2d2-bbd1-4e61-9687-1a3452f124f7)
+
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
